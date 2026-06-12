@@ -4,7 +4,7 @@
   "chain": "tron-nile",
   "network": "nile",
   "address": "TLhjWZ7ibnosj5B2bHvD1a2oecWpViNyvS",
-  "implementation": "TLhjWZ7ibnosj5B2bHvD1a2oecWpViNyvS",
+  "implementation": "TXyk59y5VsrqwksgPtUbQuM5cuh65JycDj",
   "name": "Tether USDT",
   "symbol": "USDT",
   "decimals": 6,
@@ -25,5 +25,5 @@
     "tether",
     "nile-testnet"
   ],
-  "updatedAt": "2026-06-12T23:45:00.000Z"
+  "updatedAt": "2026-06-10T21:18:52.109Z"
 }
