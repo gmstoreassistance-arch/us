@@ -3,8 +3,8 @@
   "standard": "TRC20",
   "chain": "tron-nile",
   "network": "nile",
-  "address": "TLhjWZ7ibnosj5B2bHvD1a2oecWpViNyvS",
-  "implementation": "TXyk59y5VsrqwksgPtUbQuM5cuh65JycDj",
+  "address": "TVAyHn8d8w8gQ9wW5vR6KqL7wS7Y5p9R5a",
+  "implementation": "TVAyHn8d8w8gQ9wW5vR6KqL7wS7Y5p9R5a",
   "name": "Tether USDT",
   "symbol": "USDT",
   "decimals": 6,
@@ -17,13 +17,13 @@
   "logoGatewayURL": "https://ipfs.io/ipfs/QmTNerk9uE6Y46WH6yHfMZGKTnSBNxCrat1KHJEthrbnaN",
   "localLogoGatewayURL": "http://127.0.0.1:8080/ipfs/QmTNerk9uE6Y46WH6yHfMZGKTnSBNxCrat1KHJEthrbnaN",
   "logoLocalPath": "assets/logos/usdt.svg",
-  "explorer": "https://nile.tronscan.org/#/token20/TLhjWZ7ibnosj5B2bHvD1a2oecWpViNyvS",
-  "contractExplorer": "https://nile.tronscan.org/#/contract/TLhjWZ7ibnosj5B2bHvD1a2oecWpViNyvS",
+  "explorer": "https://nile.tronscan.org/#/token20/TVAyHn8d8w8gQ9wW5vR6KqL7wS7Y5p9R5a",
+  "contractExplorer": "https://nile.tronscan.org/#/contract/TVAyHn8d8w8gQ9wW5vR6KqL7wS7Y5p9R5a",
   "tags": [
     "trc20",
     "usdt",
     "tether",
     "nile-testnet"
   ],
-  "updatedAt": "2026-06-10T21:18:52.109Z"
+  "updatedAt": "2026-06-14T00:17:48.000Z"
 }
